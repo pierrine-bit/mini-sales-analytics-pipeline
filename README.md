@@ -34,11 +34,6 @@ docker build -t sales-pipeline .
 docker run --rm sales-pipeline
 ```
 
-## Continuous Integration
-
-GitHub Actions automatically runs the test suite on every push and pull request to `main`.
-
-![GitHub Actions Success](screenshots/github_actions_success.png)
 
 ## Version Control
 
@@ -46,11 +41,6 @@ The project was developed incrementally using Git with one commit per sprint del
 
 ![Git Commit History](screenshots/git_commit_history.png)
 
-## Testing
-
-Automated unit tests cover all validation rules and transformation logic.
-
-![Pytest Results](screenshots/pytest_results.png)
 
 ## Project Structure
 
