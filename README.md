@@ -1,4 +1,4 @@
-﻿# Sales Analytics Pipeline
+# Sales Analytics Pipeline
 
 ## Project Overview
 
@@ -38,31 +38,19 @@ docker run --rm sales-pipeline
 
 GitHub Actions automatically runs the test suite on every push and pull request to `main`.
 
-Evidence:
-
-```text
-screenshots/github_actions_success.png
-```
+![GitHub Actions Success](screenshots/github_actions_success.png)
 
 ## Version Control
 
 The project was developed incrementally using Git with one commit per sprint deliverable.
 
-Evidence:
-
-```text
-screenshots/git_commit_history.png
-```
+![Git Commit History](screenshots/git_commit_history.png)
 
 ## Testing
 
 Automated unit tests cover all validation rules and transformation logic.
 
-Evidence:
-
-```text
-screenshots/pytest_results.png
-```
+![Pytest Results](screenshots/pytest_results.png)
 
 ## Project Structure
 

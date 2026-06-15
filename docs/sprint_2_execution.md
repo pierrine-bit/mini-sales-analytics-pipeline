@@ -30,7 +30,7 @@ GitHub Actions runs the full test suite on every push and pull request to `main`
 
 Workflow file: `.github/workflows/ci.yml`
 
-Evidence: `screenshots/github_actions_success.png`
+![GitHub Actions Success](../screenshots/github_actions_success.png)
 
 ## Sprint Review
 

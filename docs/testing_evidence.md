@@ -31,4 +31,4 @@ Tests for `src/transform.py`:
 
 ## Test Results
 
-Screenshot: `screenshots/pytest_results.png`
+![Pytest Results](../screenshots/pytest_results.png)
