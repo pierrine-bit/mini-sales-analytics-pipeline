@@ -10,3 +10,7 @@ __pycache__/
 # Test cache
 .pytest_cache/
 
+# Generated pipeline outputs
+data/cleaned_sales.csv
+data/sales_summary.csv
+
